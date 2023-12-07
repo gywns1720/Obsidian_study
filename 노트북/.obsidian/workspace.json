@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "e2fd7013f6985e6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7df90c10ffa5aad6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c491ec0e38935f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "뷰포리아/뷰포리아 기능.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85ea9665da0e643f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4690589484552cc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "863d12472f44896e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#C",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a3eba495e2576966",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "64c12f39e9b4e864",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5
+  },
+  "right": {
+    "id": "8de667952f3bb1d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5567465b12719f91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3310de8e7bce7d0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "뷰포리아/뷰포리아 기능.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "553e5e3a28834f1b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "뷰포리아/뷰포리아 기능.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5561b08bae42564",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "e34736ee2a69e593",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "뷰포리아/뷰포리아 기능.md"
+              }
+            }
+          },
+          {
+            "id": "cb1e9bba160f1618",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f54886e2b822fa56",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f5a8a9c60ffb0ef",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:새로운 유니크 노트 생성": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "64c12f39e9b4e864",
+  "lastOpenFiles": [
+    "C++ Deep/02. 강의",
+    "뷰포리아/뷰포리아.md",
+    "뷰포리아/뷰포리아 기능.md",
+    "뷰포리아",
+    "2023-12-06.md",
+    "무제 파일.canvas",
+    "언리얼 엔진/5. VR/01. 입문/01. BP_PAWN.md",
+    "언리얼 엔진/5. VR/assets/Pasted image 20231206001154.png",
+    "언리얼 엔진/5. VR/assets/Pasted image 20231206000923.png",
+    "언리얼 엔진/5. VR/assets/Pasted image 20231205223422.png",
+    "언리얼 엔진/5. VR/assets/Pasted image 20231205223320.png",
+    "언리얼 엔진/5. VR/assets/Pasted image 20231205223129.png",
+    "언리얼 엔진/5. VR/assets/Pasted image 20231205223016.png",
+    "언리얼 엔진/5. VR/assets/Pasted image 20231205222945.png",
+    "언리얼 엔진/5. VR/assets",
+    "C++ Deep/01. 초단기 속성 코스/C++ 기초.md",
+    "언리얼 엔진/5. VR/01. 입문",
+    "언리얼 엔진/5. VR",
+    "202312032041.md",
+    "언리얼 엔진/1. 블루프린트/07. 클래스/02. 맴버 변수 와 맴버 함수.md",
+    "C++ Deep/01. 초단기 속성 코스",
+    "C++ Deep",
+    "언리얼 엔진/1. 블루프린트/07. 클래스/01. 클래스.md",
+    "언리얼 엔진/1. 블루프린트/07. 클래스/클래스 참조 방식.md",
+    "언리얼 엔진/assets/blueprint/07/A, B 같은 인스턴스.png",
+    "언리얼 엔진/assets/blueprint/07/클래스 검사.png",
+    "Excalidraw/Drawing 2023-09-18 11.15.57.excalidraw.md",
+    "언리얼 엔진/1. 블루프린트/01. 블루프린트.md",
+    "언리얼 엔진/1. 블루프린트/06. 자료구조.md",
+    "언리얼 엔진/1. 블루프린트/04. 흐름제어 노드.md",
+    "언리얼 엔진/1. 블루프린트/03. 블루 프린트 기초.md",
+    "언리얼 엔진/1. 블루프린트/02. 변수 타입 (기초).md",
+    "언리얼 엔진/1. 블루프린트/05. 함수.md",
+    "언리얼 엔진/assets/blueprint/07/맴버 변수 및 함수.png",
+    "언리얼 엔진/머터리얼/기본 정보/마스터 머트리얼 노드 정보.md",
+    "언리얼 엔진/머터리얼/기본 정보",
+    "언리얼 엔진/머터리얼/노드 정보/Constant.md",
+    "언리얼 엔진/assets/머터리얼",
+    "언리얼 엔진/머터리얼/노드 정보",
+    "언리얼 엔진/머터리얼",
+    "ENUM 창.png.md",
+    "언리얼 엔진/환경 설정.md",
+    "요리/군만두 우동볶음.md",
+    "블렌더/기초/작업공간 알아보기.md",
+    "회사 웹서버/팀장 회의/2023-09-18.md",
+    "회사 웹서버/메타버스 프로젝트/어드민 페이지/필요한 기능 문서.md",
+    "회사 웹서버/메타버스 프로젝트/가격정보.md",
+    "회사 웹서버/내부 개발/기능명세서/기능정보.canvas",
+    "백엔드/디자인패턴/생성패턴/팩토리 패턴.canvas",
+    "백엔드/디자인패턴/행동패턴 (Behavioral Pattern)/전략 패턴 알아보기.canvas",
+    "NestJS/image/무제 파일.canvas",
+    "NestJS/canvas/Controller.canvas"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"type":"group","id":"c77aeaa2e36586d1","x":20,"y":-640,"width":900,"height":1460,"color":"4","label":"타입스크립트 예시"},
+		{"type":"text","text":"# Example\n\n## Context\n- 구상 전략 중 하나에 대한 참조를 유지하고 전략 인터페이스를 통해서만 이 객체와 통신합니다.\n```typescript\nclass Context {\n\t// 현재 전략\n\tprivate strategy : Strategy;\n\n\tconstructor(strategy : Strategy) {\n\t\tthis.strategy = strategy;\n\t}\n\n\tpublic setStrategy(strategy : Strategy) {\n\t\tthis.strategy = strategy;\n\t}\n\n\tpublic doSomeBusinessLogic() : void {\n\t\t// Logic\n\t\tconst result = this.strategy.doAlgorithm([\"a\",\"b\",\"C\"]);\n\t}\n}\n```\n\n## Strategy Interface\n- 모든 구상 전략에 공통이며, 컨텍스트가 전략을 실행하는데 사용하는 메서드\n```typescript\ninterface Strategy {\n\tdoAlgorithm(data : string[]) : string[];\n}\n```\n\n\n## Strategy List\n- 콘텍스트가 사용하는 알고리즘의 다양한 변형들을 구현\n```typescript\nclass ConcreateStrategyA implements Strategy {\n\tpublic doAlgorithm(data : string[]) : string[] { return data.sort(); }\n}\n\nclass ConcreateStrategyB implements Strategy {\n\tpublic doAlgorithm(data : string[]) : string[] { return data.reverse(); } \n}\n```","id":"ad49524729066a13","x":40,"y":-280,"width":860,"height":1073},
+		{"type":"text","text":"# Test\n\n```typescript\nconst context = new Context(new ConcreateStrategyA());\ncontext.doSomeBusinessLogic();\n\ncontext.setStrategy(new ConcreateStrategyB());\ncontext.doSomeBusinessLogic();\n\n```","id":"d884ab4301579ebf","x":40,"y":-610,"width":720,"height":260},
+		{"type":"text","text":"# 전략 패턴\n\n- 공항을 가야 할 때, 당신은 버스를 타고 갈건가? 택시 혹은 자전거를 타고 갈건가? 운송에 대한 전략 \n","id":"7d27a2b9bd1e8200","x":-620,"y":-640,"width":524,"height":160,"color":"3"}
+	],
+	"edges":[
+		{"id":"400c5147f0d4a55e","fromNode":"ad49524729066a13","fromSide":"top","toNode":"d884ab4301579ebf","toSide":"bottom"},
+		{"id":"6136ccfaab2991a5","fromNode":"7d27a2b9bd1e8200","fromSide":"bottom","toNode":"c77aeaa2e36586d1","toSide":"left"}
+	]
+}
