@@ -1,12 +1,16 @@
 [
-  "calendar",
-  "obsidian-excalidraw-plugin",
-  "obsidian-icon-folder",
-  "drawio-obsidian",
-  "table-editor-obsidian",
-  "obsidian-admonition",
-  "obsidian-git",
-  "remember-cursor-position",
+  "obsidian-mind-map",
   "execute-code",
-  "obsidian-projects"
+  "obsidian-local-rest-api",
+  "obsidian-excalidraw-plugin",
+  "dataview",
+  "table-editor-obsidian",
+  "obsidian-kanban",
+  "calendar",
+  "obsidian-icon-folder",
+  "emoji-shortcodes",
+  "make-md",
+  "obsidian-projects",
+  "obsidian-charts",
+  "remember-cursor-position"
 ]

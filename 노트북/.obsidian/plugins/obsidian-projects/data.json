@@ -10,7 +10,7 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "",
+          "path": "언리얼 엔진",
           "recursive": false
         }
       },
@@ -27,13 +27,13 @@
           "sort": {
             "criteria": []
           },
-          "id": "8974689f-6c21-49ec-a759-539974e70886",
+          "id": "91c657f6-5805-49ac-9a52-9b27594c3346",
           "name": "Table",
           "type": "table"
         }
       ],
-      "id": "a544745c-fff2-46c0-b74f-81be72439266",
-      "name": "뷰포리아"
+      "id": "b5165bbf-f16f-4f5d-8034-13e81627dc22",
+      "name": "언리얼 엔진"
     }
   ],
   "archives": [],

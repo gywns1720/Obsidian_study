@@ -1,8 +1,4 @@
 {
-  "accentColor": "#96fb89",
-  "cssTheme": "Things",
-  "textFontFamily": "Pretendard,Fira Code",
-  "interfaceFontFamily": "Pretendard,Fira Code",
-  "monospaceFontFamily": "Fira Code",
-  "theme": "obsidian"
+  "accentColor": "",
+  "cssTheme": "Minimal"
 }

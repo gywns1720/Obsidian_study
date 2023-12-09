@@ -1,11 +1,16 @@
 {
   "settings": {
     "migrated": 3,
-    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "RiFolder5Line",
+      "RiImageAddFill",
+      "RiArtboardFill",
+      "RiGitRepositoryPrivateFill"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -19,5 +24,15 @@
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
-  }
+  },
+  "업무": "RiFolder5Line",
+  "업무/Images": "RiImageAddFill",
+  "업무/비밀번호.md": "RiGitRepositoryPrivateFill",
+  "업무/윈도우 정품인증.md": {
+    "iconName": "RiArtboardFill",
+    "inheritanceIcon": "RiGraduationCapFill"
+  },
+  "언리얼 엔진": "RiFolder5Line",
+  "언리얼 엔진/머트리얼 정보": "RiFolder5Line",
+  "언리얼 엔진/이미지 모음": "RiImageAddFill"
 }

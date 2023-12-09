@@ -1,21 +1,19 @@
 {
   "main": {
-    "id": "e2fd7013f6985e6c",
+    "id": "0d58fcd5315df321",
     "type": "split",
     "children": [
       {
-        "id": "7df90c10ffa5aad6",
+        "id": "08679db05224a905",
         "type": "tabs",
         "children": [
           {
-            "id": "1c491ec0e38935f1",
+            "id": "41e6272f45ac8f9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "C++ Deep/02. 강의/C 기초/04. 조건, 반복.md",
-                "mode": "source",
-                "source": false
+                "path": "언리얼 엔진"
               }
             }
           }
@@ -25,20 +23,30 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "85ea9665da0e643f",
+    "id": "6a11b475c9c74d75",
     "type": "split",
     "children": [
       {
-        "id": "4690589484552cc0",
+        "id": "13d3f776e7c06346",
         "type": "tabs",
         "children": [
           {
-            "id": "863d12472f44896e",
+            "id": "7efda81727595c3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4d56594e9224da3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#C",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +56,7 @@
             }
           },
           {
-            "id": "a3eba495e2576966",
+            "id": "26d672889f87131a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -56,181 +64,134 @@
             }
           },
           {
-            "id": "64c12f39e9b4e864",
+            "id": "a37d202a9fa411ec",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
+              "type": "mk-file-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 298.5
   },
   "right": {
-    "id": "8de667952f3bb1d0",
+    "id": "62f2f5aa50949d9d",
     "type": "split",
     "children": [
       {
-        "id": "5567465b12719f91",
+        "id": "bdb48b728c289227",
         "type": "tabs",
         "children": [
           {
-            "id": "3310de8e7bce7d0c",
+            "id": "004f3586d304ac44",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ Deep/02. 강의/C 기초/04. 조건, 반복.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "553e5e3a28834f1b",
+            "id": "6920d9b44d1b4168",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++ Deep/02. 강의/C 기초/04. 조건, 반복.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f5561b08bae42564",
+            "id": "ac9b713738bfe13e",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "e34736ee2a69e593",
+            "id": "5a14ff854d1e40ac",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C++ Deep/02. 강의/C 기초/04. 조건, 반복.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "cb1e9bba160f1618",
+            "id": "66316d069b603be9",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "f54886e2b822fa56",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "9f5a8a9c60ffb0ef",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "zk-prefixer:새로운 유니크 노트 생성": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "markdown-importer:마크다운 형식 가져오기 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c491ec0e38935f1",
+  "active": "a37d202a9fa411ec",
   "lastOpenFiles": [
-    "C++ Deep/02. 강의/C 기초/assets/Pasted image 20231207220225.png",
-    "C++ Deep/02. 강의/C 기초/assets",
-    "C++ Deep/02. 강의/C 기초/03. 입력, 함수, 연산.md",
-    "C++ Deep/02. 강의/C 기초/04. 조건, 반복.md",
-    "C++ Deep/02. 강의/C 기초/02. 출력, 변수, 할당 개념.md",
-    "C++ Deep/02. 강의/C 기초/01. 각종 언어와 C 언어 관계.md",
-    "C++ Deep/01. 초단기 속성 코스/C++ 기초.md",
-    "C++ Deep/02. 강의/C 기초",
-    "언리얼 엔진/5. VR/assets/Pasted image 20231205223320.png",
-    "언리얼 엔진/5. VR/assets/Pasted image 20231205223016.png",
-    "언리얼 엔진/5. VR/01. 입문/01. BP_PAWN.md",
-    "뷰포리아/뷰포리아 기능.md",
-    "C++ Deep/02. 강의",
-    "뷰포리아/뷰포리아.md",
-    "뷰포리아",
-    "2023-12-06.md",
-    "무제 파일.canvas",
-    "언리얼 엔진/5. VR/assets/Pasted image 20231206001154.png",
-    "언리얼 엔진/5. VR/assets/Pasted image 20231206000923.png",
-    "언리얼 엔진/5. VR/assets/Pasted image 20231205223422.png",
-    "언리얼 엔진/5. VR/assets/Pasted image 20231205223129.png",
-    "언리얼 엔진/5. VR/assets/Pasted image 20231205222945.png",
-    "언리얼 엔진/5. VR/assets",
-    "언리얼 엔진/5. VR/01. 입문",
-    "언리얼 엔진/5. VR",
-    "202312032041.md",
-    "언리얼 엔진/1. 블루프린트/07. 클래스/02. 맴버 변수 와 맴버 함수.md",
-    "C++ Deep/01. 초단기 속성 코스",
-    "C++ Deep",
-    "언리얼 엔진/1. 블루프린트/07. 클래스/01. 클래스.md",
-    "언리얼 엔진/1. 블루프린트/07. 클래스/클래스 참조 방식.md",
-    "언리얼 엔진/assets/blueprint/07/A, B 같은 인스턴스.png",
-    "언리얼 엔진/assets/blueprint/07/클래스 검사.png",
-    "Excalidraw/Drawing 2023-09-18 11.15.57.excalidraw.md",
-    "언리얼 엔진/1. 블루프린트/01. 블루프린트.md",
-    "언리얼 엔진/1. 블루프린트/06. 자료구조.md",
-    "언리얼 엔진/1. 블루프린트/04. 흐름제어 노드.md",
-    "언리얼 엔진/1. 블루프린트/03. 블루 프린트 기초.md",
-    "언리얼 엔진/1. 블루프린트/02. 변수 타입 (기초).md",
-    "언리얼 엔진/1. 블루프린트/05. 함수.md",
-    "언리얼 엔진/assets/blueprint/07/맴버 변수 및 함수.png",
-    "언리얼 엔진/머터리얼/기본 정보/마스터 머트리얼 노드 정보.md",
-    "언리얼 엔진/머터리얼/기본 정보",
-    "언리얼 엔진/머터리얼/노드 정보/Constant.md",
-    "ENUM 창.png.md",
     "언리얼 엔진/환경 설정.md",
-    "요리/군만두 우동볶음.md",
-    "회사 웹서버/내부 개발/기능명세서/기능정보.canvas",
-    "백엔드/디자인패턴/생성패턴/팩토리 패턴.canvas",
-    "백엔드/디자인패턴/행동패턴 (Behavioral Pattern)/전략 패턴 알아보기.canvas",
-    "NestJS/image/무제 파일.canvas",
-    "NestJS/canvas/Controller.canvas"
+    "Spaces/Home",
+    "Spaces",
+    "언리얼 엔진/이미지 모음",
+    "언리얼 엔진/머트리얼 정보",
+    "언리얼 엔진/Unreal Engine.md",
+    "언리얼 엔진/레벨 디자인/레벨 디자인.md",
+    "업무 노트.md",
+    "2023-12-09.md",
+    "업무/업무.md",
+    "Unreal/Unreal.md",
+    "언리얼 엔진/기초/백터.excalidraw.md",
+    "언리얼 엔진/Materials/용량 절약 퀵셀.md",
+    "언리얼 엔진/Materials/머트리얼의 기초.md",
+    "Spaces/Spaces.md",
+    "언리얼 엔진/레벨 디자인",
+    "언리얼 엔진/기초/백터.md",
+    "Spaces/Home/Untitled.md",
+    "Spaces/Home/Untitled 1.md",
+    "Spaces/Home/Untitled 2.md",
+    "Unreal",
+    "Untitled.md",
+    "언리얼 엔진",
+    "Spaces/Study",
+    "언리얼 엔진/기초",
+    "업무/Meta Quest.md",
+    "언리얼 엔진/Materials",
+    "업무/비밀번호.md",
+    "업무/윈도우 정품인증.md",
+    "업무/Images/Pasted image 20231208131410.png",
+    "업무/Images/Pasted image 20231208131507.png"
   ]
 }
