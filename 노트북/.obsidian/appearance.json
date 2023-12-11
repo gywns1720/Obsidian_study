@@ -1,4 +1,6 @@
 {
-  "accentColor": "",
-  "cssTheme": "Minimal"
+  "accentColor": "#7b6085",
+  "cssTheme": "Minimal",
+  "textFontFamily": "Fira Code",
+  "interfaceFontFamily": "Fira Code"
 }

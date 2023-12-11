@@ -18,7 +18,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "/",
+  "activeView": "Spaces/Home",
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
@@ -61,8 +61,12 @@
     "//Spaces/Spaces/Home",
     "//Spaces",
     "//언리얼 엔진/언리얼 엔진/머터리얼",
-    "//언리얼 엔진/언리얼 엔진/1. 블루프린트",
-    "//언리얼 엔진/언리얼 엔진/5. VR"
+    "//언리얼 엔진",
+    "//언리얼 엔진/언리얼 엔진/머터리얼/언리얼 엔진/머터리얼/기본 정보",
+    "//언리얼 엔진/언리얼 엔진/머터리얼/언리얼 엔진/머터리얼/기본 정보",
+    "//언리얼 엔진/언리얼 엔진/머터리얼",
+    "//언리얼 엔진/언리얼 엔진/assets",
+    "//언리얼 엔진/언리얼 엔진/assets"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

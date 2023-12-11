@@ -2,14 +2,15 @@
   "settings": {
     "migrated": 3,
     "iconPacksPath": ".obsidian/icons",
-    "fontSize": 16,
+    "fontSize": 20,
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiFolder5Line",
-      "RiImageAddFill",
-      "RiArtboardFill",
-      "RiGitRepositoryPrivateFill"
+      "RiEdit2Fill",
+      "RiImageEditFill",
+      "RiSquareFill",
+      "RiContrast2Fill",
+      "RiDashboardFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -25,14 +26,11 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
   },
-  "업무": "RiFolder5Line",
-  "업무/Images": "RiImageAddFill",
-  "업무/비밀번호.md": "RiGitRepositoryPrivateFill",
-  "업무/윈도우 정품인증.md": {
-    "iconName": "RiArtboardFill",
-    "inheritanceIcon": "RiGraduationCapFill"
-  },
-  "언리얼 엔진": "RiFolder5Line",
-  "언리얼 엔진/머트리얼 정보": "RiFolder5Line",
-  "언리얼 엔진/이미지 모음": "RiImageAddFill"
+  "언리얼 엔진": "RiFolderOpenFill",
+  "업무": "RiBookFill",
+  "언리얼 엔진/02. Materials (재질)": "RiContrast2Fill",
+  "언리얼 엔진/01. BluePrint (블루프린트)": "RiDashboardFill",
+  "언리얼 엔진/02. Materials (재질)/정보": "RiSquareFill",
+  "언리얼 엔진/에셋": "RiImageEditFill",
+  "언리얼 엔진/환경 설정.md": "RiEdit2Fill"
 }

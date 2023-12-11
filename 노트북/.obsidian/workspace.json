@@ -11,9 +11,12 @@
             "id": "41e6272f45ac8f9c",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "언리얼 엔진"
+                "file": "C++ Deep/02. 강의/C++/03. Class.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -71,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C++ Deep/02. 강의/C++/03. Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C++ Deep/02. 강의/C++/03. Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "C++ Deep/02. 강의/C++/03. Class.md"
+              }
             }
           },
           {
@@ -140,12 +146,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,9 +166,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a37d202a9fa411ec",
+  "active": "41e6272f45ac8f9c",
   "lastOpenFiles": [
+    "C++ Deep/코드 기본 용어.md",
+    "C++ Deep/02. 강의/C 기초/05. 문자열.md",
+    "C++ Deep/02. 강의/C++/03. Class.md",
+    "C++ Deep/02. 강의/C++/02. Object Oriented Programming.md",
+    "C++ Deep/02. 강의/C++/01. 다른점.md",
+    "C++ Deep/02. 강의/C 기초/07. 매크로.md",
+    "C++ Deep/02. 강의/C++",
+    "C++ Deep/02. 강의/C 기초/06. 포인터.md",
+    "언리얼 엔진/02. Materials (재질)/정보/선택 모드.md",
+    "언리얼 엔진/에셋/머터리얼/Pasted image 20231209191518.png",
+    "언리얼 엔진/에셋/머터리얼/Pasted image 20231209191425.png",
+    "언리얼 엔진/에셋/머터리얼/Pasted image 20231209191138.png",
+    "언리얼 엔진/에셋/머터리얼/Pasted image 20231209191136.png",
+    "언리얼 엔진/에셋/머터리얼/Pasted image 20231209191050.png",
+    "언리얼 엔진/02. Materials (재질)/정보/Material.md",
+    "언리얼 엔진/02. Materials (재질)/정보/Parameters.md",
+    "언리얼 엔진/02. Materials (재질)/정보/Texture.md",
+    "언리얼 엔진/에셋/머터리얼/Pasted image 20231209123756.png",
+    "언리얼 엔진/에셋/머터리얼/Pasted image 20231209123523.png",
+    "언리얼 엔진/에셋/머터리얼/Pasted image 20231209123142.png",
+    "언리얼 엔진/에셋/머터리얼/Pasted image 20231209123136.png",
+    "언리얼 엔진/에셋/머터리얼/Pasted image 20231209122919.png",
+    "언리얼 엔진/02. Materials (재질)/노드 정보/Constant.md",
+    "언리얼 엔진/02. Materials (재질)/기본 정보/마스터 머트리얼 노드 정보.md",
+    "언리얼 엔진/02. Materials (재질)/정보/Texture 최적화.md",
     "언리얼 엔진/환경 설정.md",
+    "언리얼 엔진/무제 폴더",
+    "언리얼 엔진/02. Materials (재질)/정보",
+    "언리얼 엔진/02. 머트리얼",
+    "언리얼 엔진/에셋/에셋.md",
     "Spaces/Home",
     "Spaces",
     "언리얼 엔진/이미지 모음",
@@ -178,20 +213,6 @@
     "언리얼 엔진/Materials/머트리얼의 기초.md",
     "Spaces/Spaces.md",
     "언리얼 엔진/레벨 디자인",
-    "언리얼 엔진/기초/백터.md",
-    "Spaces/Home/Untitled.md",
-    "Spaces/Home/Untitled 1.md",
-    "Spaces/Home/Untitled 2.md",
-    "Unreal",
-    "Untitled.md",
-    "언리얼 엔진",
-    "Spaces/Study",
-    "언리얼 엔진/기초",
-    "업무/Meta Quest.md",
-    "언리얼 엔진/Materials",
-    "업무/비밀번호.md",
-    "업무/윈도우 정품인증.md",
-    "업무/Images/Pasted image 20231208131410.png",
-    "업무/Images/Pasted image 20231208131507.png"
+    "Unreal"
   ]
 }

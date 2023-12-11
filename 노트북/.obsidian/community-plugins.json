@@ -7,10 +7,11 @@
   "table-editor-obsidian",
   "obsidian-kanban",
   "calendar",
-  "obsidian-icon-folder",
   "emoji-shortcodes",
   "make-md",
   "obsidian-projects",
   "obsidian-charts",
-  "remember-cursor-position"
+  "remember-cursor-position",
+  "drawio-obsidian",
+  "obsidian-icon-folder"
 ]

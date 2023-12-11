@@ -34,6 +34,40 @@
       ],
       "id": "b5165bbf-f16f-4f5d-8034-13e81627dc22",
       "name": "언리얼 엔진"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "언리얼 엔진",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "c284d163-9640-4c2e-88ff-6814e7140b3c",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "3d8f26fa-a3d1-4304-8dba-2072f063b375",
+      "name": "언리얼 엔진"
     }
   ],
   "archives": [],
